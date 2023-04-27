@@ -20,7 +20,7 @@ require_once "subline/navbar.php"
 <div id="layoutSidenav_content">
     <main>
                     <div class="container-fluid px-4">
-                        <h2 class="mt-1">Traducciones Guardadas</h2>
+                        <h2 class="mt-1">Traducciones Almacenadas</h2>
                     </div>
                     <div class="conteiner mt-3 ms-4 me-4 mb-3">
                         
